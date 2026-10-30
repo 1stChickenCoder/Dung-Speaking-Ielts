@@ -48,3 +48,65 @@ Cách dùng:
 `I go to the gym 3 times a week.`
 
 - Diễn tả một lịch trình
+
+`The train starts at  six`
+
+- Một câu chuyện trong phim, trong sách
+
+- Diễn tả sự hướng dẫn
+
+2. Hiện tại tiếp diễn
+
+Công thức:
+
+- Khẳng định: S + am/is/are + V_ing
+
+- Phủ định: S + am/is/are + not + V_ing
+
+- Nghi vấn: Am/Is/Are + S + V_ing?
+
+Cách dùng:
+
+- Diễn tả hành đông đang xảy ra ở thời điểm nói ở hiện tại
+
+`I am finishing my project.`
+
+- Diễn tả hành động tạm thời, bất thường ở hiện tại
+
+`I eat Pho everyday but today I am eating Banh My for my breakfast`
+
+- Diễn tả một xu hướng
+
+`The petrol price is rising`
+
+- Diễn tả một lời phàn nàn (hay đi cùng với `always`)
+
+`He always comes late` => Anh ấy thường đến muộn
+
+`He is always coming late` => Thằng ấy suốt ngày đến muộn
+
+3. Quá khứ đơn
+
+Cách dùng:
+
+- Diễn tả một hành động đã xảy ra và kết thúc tại một thời điểm xác định trong quá khứ
+
+`I travelled to Da Nang 3 years ago`
+
+- Diễn tả một chuỗi các hành động xảy ra liên tiếp trong quá khứ
+
+- Diễn tả một thói quen trong quá khứ (S + used to + V: ngày trước từng ...)
+
+4. Quá khứ tiếp diễn
+
+Công thức...
+
+Cách dùng:
+
+- Diễn tả một hành động đang xảy ra tại một thời điểm trong quá khứ
+
+`I was working at 9 last night`
+
+- Diễn tả một hành động đang xảy ra (QKTD) thì một hành động khác xen vào (QKĐ). Đi cùng `when` và `while`
+
+- Diễn tả 2 hành động xảy ra cùng lúc trong quá khứ. Đi cùng `when` và `while`
