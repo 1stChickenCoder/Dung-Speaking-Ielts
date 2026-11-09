@@ -43,3 +43,45 @@
 
 - Lượng từ đi với `of` => khi danh từ đằng sau đã được xác định.
   `all of the men are generous`
+
+3. Mạo từ
+
+- Từ `a/an`
+
+* Phân biệt `a/an`: phụ âm và nguyên âm. Đặt biệt nếu bắt đầu là `uni` thì dùng `a`. Âm câm thì vô vàn nên học đâu biết đấy thôi.
+
+* Danh từ chỉ nghề nghiệp: đều đi với `a/an` hết.
+
+* Bổ sung cho danh từ đếm được số ít
+
+- Từ `the`
+
+* Bổ sung cho danh từ đã được xác định
+
+* Những thứ độc nhất: `the goverment`, `the president`,...
+
+* Tên nhạc cụ: `the guitar`, `the piano`,... => tiếng Anh hiện đại thì có thể bỏ nhưng để đi thi thì phải dùng
+
+* Tên quốc gia có nhiều có nhiều bộ phận hành chính độc lập (có chữ `United`): `the UK`, `the USA`,...
+
+* Tên địa điểm lịch sử nổi tiếng: `the HCM Mausoleum`,...
+
+* Tên sông, biển
+
+* Cụm danh từ có `of`: `the temple of liturature`
+
+- Không có mạo từ `no articles`
+
+* Khi danh từ mang nghĩa chung chung: `men are generous`
+
+* Châu lục
+
+* Thành phố
+
+* Quốc gia
+
+* Công ty
+
+* Tên địa điểm có tên của thành phố: `Hanoi station`, `Hai Phong university`,...
+
+* Tên bữa ăn: nếu ở trước có tính từ thì ta có thể thêm mạo từ: `I had a wonderful dinner with my family`
